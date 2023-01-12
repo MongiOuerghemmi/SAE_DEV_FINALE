@@ -1,0 +1,39 @@
+{
+  "textureAtlas": {
+    "texture": "Boss.png",
+    "regionWidth": 32,
+    "regionHeight": 32
+  },
+  "cycles": {
+    "walkingDown": {
+      "frames": [0,1,2,1],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "walkingLeft": {
+      "frames": [3,4,5,4],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "walkingRight": {
+      "frames": [6,7,8,7],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "walkingUp": {
+      "frames": [9,10,11,10],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "bossDead": {
+      "frames": [12],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "idle": {
+      "frames": [0],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

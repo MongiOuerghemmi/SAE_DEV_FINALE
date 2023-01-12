@@ -1,0 +1,29 @@
+{
+  "textureAtlas": {
+    "texture": "Fireball.png",
+    "regionWidth": 16,
+    "regionHeight": 16
+  },
+  "cycles": {
+    "lancerDroit": {
+      "frames": [0,1],
+      "isLooping": false,
+      "frameDuration": 0.15
+    },
+    "lancerGauche": {
+      "frames": [2,3],
+      "isLooping": false,
+      "frameDuration": 0.15
+    },
+    "lancerBas": {
+      "frames": [4,6],
+      "isLooping": false,
+      "frameDuration": 0.15
+    },
+    "lancerHaut": {
+      "frames": [5,7],
+      "isLooping": false,
+      "frameDuration": 0.15
+    }
+  }
+}
